@@ -4,4 +4,7 @@ The code in this repository was created as part of Master's thesis and includes 
 
 The notebooks in the 'models' folder include code to use these built environmental variables in combination with observed cycling counts at the given location to model the relationship between the two. This is done using Linear Regression, Random Forest, XGBoost and SVM models. The outcomes are then ablet to be illustrated using the 'generating figures' notebook. 
 
+The 'weekly_new.csv' file contains all the counter data and built environment variables that were used during the analysis in the thesis.
+
+
 ** code is being optimised for performance
